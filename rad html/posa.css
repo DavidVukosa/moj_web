@@ -1,0 +1,26 @@
+h1{
+	color:pink;
+	font-size: 40 px;
+	font-weight :100;
+	font-family:Arial;
+	text-align:center;
+	text-decoration:underline;
+}
+
+
+p{ 
+background-color:#000000;
+color:#52057b;
+font-size :40px;
+font-weight: 700;
+font-family:verdana;
+text-align:right;
+text-decoration:overline;
+}
+
+
+body{
+	background-color: blue;
+	
+	
+}
